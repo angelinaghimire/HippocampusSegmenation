@@ -37,11 +37,7 @@ Ensure you have the following installed:
 
 2. Install dependencies:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   *Note: If `requirements.txt` is not provided, manually install the necessary packages.*
+Manually install the necessary packages.
 
 3. Run the notebook:
 
