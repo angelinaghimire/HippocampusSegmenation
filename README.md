@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/angelinaghimire/HippocampusSegmenation.git
-   cd HippocampusSegmenation
+   cd HippocampusSegmentation
    ```
 
 2. Install dependencies:
