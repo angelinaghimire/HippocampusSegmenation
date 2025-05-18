@@ -2,9 +2,6 @@
 
 This project leverages an Attention U-Net architecture to perform precise segmentation of the hippocampus in MRI images. The attention mechanism enhances the model's ability to focus on relevant regions, improving segmentation accuracy for structures like the hippocampus.
 
-## 📁 Repository Contents
-
-* **[AttentionUnet\_HippocampusSegmentation.ipynb](https://github.com/angelinaghimire/HippocampusSegmenation/blob/main/AttentionUnet_HippocampusSegmentation.ipynb)**: A Jupyter Notebook detailing the implementation of the Attention U-Net model, including data preprocessing, model architecture, training, and evaluation.
 
 ## 📊 Model Overview
 
